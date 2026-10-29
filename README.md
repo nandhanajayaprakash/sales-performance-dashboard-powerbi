@@ -2,7 +2,7 @@
 Power BI Sales Dashboard analyzing 2.30M sales (2014-2017) | DAX, KPIs, Insights | West region top performer, Furniture low profit
 
 ## 📊 Overview
-Analyzed 2.3M+ sales records (2014-2017) to identify revenue drivers, low-profit categories, and regional performance. Designed an interactive Power BI dashboard for data-driven decisions.
+Analyzed 2.30M+ sales records (2014-2017) to identify revenue drivers, low-profit categories, and regional performance. Designed an interactive Power BI dashboard for data-driven decisions.
 
 ## 🎯 KPIs Tracked
 - Total Sales: 2.30M
